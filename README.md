@@ -14,7 +14,7 @@ This is a plugin which generates ore blocks. The following ore blocks are genera
 - Gold
 - Diamond
 
-They will be generated at different height and amount.
+They will be generated at different depth and amount below the surface.
 
 ### 2. Lakes
 This is a plugin which generates lakes and water at sea level.
